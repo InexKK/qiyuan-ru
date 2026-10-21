@@ -4,7 +4,7 @@
 
 [![Скачать приложение](https://img.shields.io/badge/СКАЧАТЬ_ПРИЛОЖЕНИЕ-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/InexKK/qiyuan-ru/releases/latest/download/Qiyuan-RU.apk)
 
-**Приложение Changan: 4.0.2 · Русификация: 1.0.0**
+**Приложение Changan: 4.0.2 · Русификация**
 
 Если кнопка не сработала, откройте [последний выпуск](https://github.com/InexKK/qiyuan-ru/releases/latest) и скачайте `Qiyuan-RU.apk`.
 

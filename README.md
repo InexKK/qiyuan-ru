@@ -4,7 +4,7 @@
 
 [![Скачать приложение](https://img.shields.io/badge/СКАЧАТЬ_ПРИЛОЖЕНИЕ-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/InexKK/qiyuan-ru/releases/latest/download/Qiyuan-RU.apk)
 
-[![VirusTotal](https://shields.io)](https://www.virustotal.com/gui/url/fc00ddbbbb9e9aa926c7b5ee3106779c3daf6229beba298231dad25e665de842)
+🛡️ **VirusTotal Scan:** [Проверить отчет](https://www.virustotal.com/gui/url/fc00ddbbbb9e9aa926c7b5ee3106779c3daf6229beba298231dad25e665de842)
 
 
 **Приложение Changan: 4.0.5 · Русификация**
